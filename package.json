@@ -1,0 +1,22 @@
+{
+  "name": "chartjs",
+  "version": "1.0.0",
+  "description": "## Following [this](https://www.youtube.com/watch?v=sE08f4iuOhA) tutorial from Traversy Media",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gradyrobbins/Traversy_tutorial_chartJS.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gradyrobbins/Traversy_tutorial_chartJS/issues"
+  },
+  "homepage": "https://github.com/gradyrobbins/Traversy_tutorial_chartJS#readme",
+  "dependencies": {
+    "chart.js": "^3.6.0"
+  }
+}
